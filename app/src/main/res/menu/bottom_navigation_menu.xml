@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_photos"
+        android:icon="@drawable/outline_photo_white_36" />
+
+    <item
+        android:id="@+id/navigation_imageSearch"
+        android:icon="@drawable/outline_image_search_white_36"
+        android:title="Search"/>
+
+    <item
+        android:id="@+id/navigation_artists"
+        android:title="Artists"/>
+
+</menu>
